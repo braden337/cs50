@@ -35,9 +35,9 @@ For help with Week 1 and Problem Set 1:
 
   * Attend one of Week 1's course-wide sections (aka supersections):
 
-    * Wed 9/7, 2:30pm – 4pm, in Emerson 210 for those less comfortable (and somewhere in between)
+    * Wed 9/7, 2:30pm – 4pm, in Emerson 210 for those less comfortable (and somewhere in between)
 
-    * Wed 9/7, 4:30pm – 6pm, in Emerson 2010 for those more comfortable (and somewhere in between)
+    * Wed 9/7, 4:30pm – 6pm, in Emerson 2010 for those more comfortable (and somewhere in between)
 
   * Post questions and search answers in [CS50 Discuss](http://cs50.net/discuss).
 
@@ -199,7 +199,7 @@ terminal window that you'll soon be compiling your first program!
 First, a hello from Zamyla if you'd like a tour of what's to come,
 particularly if less comfortable.
 
-![Hello](https://img.youtube.com/vi/vbkTzOytISY/0.jpg)
+[![Hello](https://img.youtube.com/vi/vbkTzOytISY/0.jpg)](https://www.youtube.com/watch?v=vbkTzOytISY)
 
 Shall we have you write your first program? Inside of your **pset1** folder,
 create a new file called **hello.c**, and then open that file in a tab.
@@ -470,7 +470,7 @@ execute the below.
 
 If unsure how to begin, here's Zamyla.
 
-![Water](https://img.youtube.com/vi/oAcVHgmjTHE/0.jpg)
+[![Water](https://img.youtube.com/vi/oAcVHgmjTHE/0.jpg)](https://www.youtube.com/watch?v=oAcVHgmjTHE)
 
 And if you'd like to play with the staff's own implementation of `water`
 within CS50 IDE, you may execute the below.
@@ -572,7 +572,7 @@ within CS50 IDE, you may execute the below.
 
 Not sure where to begin? Not to worry, here's Zamyla:
 
-![Mario](https://img.youtube.com/vi/EGWRG5e1O2s/0.jpg)
+[![Mario](https://img.youtube.com/vi/EGWRG5e1O2s/0.jpg)](https://www.youtube.com/watch?v=EGWRG5e1O2s)
 
 ### More Comfortable
 
@@ -616,7 +616,7 @@ CS50 IDE, you may execute the below.
 Like to implement these two half-pyramids but not sure how to approach them?
 Here's Zamyla with a walkthrough.
 
-![Mario](https://img.youtube.com/vi/xX7DQGkEG48/0.jpg)
+[![Mario](https://img.youtube.com/vi/xX7DQGkEG48/0.jpg)](https://www.youtube.com/watch?v=xX7DQGkEG48)
 
 ## Fun with Algorithms
 
@@ -702,7 +702,7 @@ nearest penny); don't "truncate" (i.e., floor) your cents!
 
 Not sure where to begin? Not to worry, start with a walkthrough:
 
-![Greedy](https://img.youtube.com/vi/2cArM62sC7E/0.jpg)
+[![Greedy](https://img.youtube.com/vi/2cArM62sC7E/0.jpg)](https://www.youtube.com/watch?v=2cArM62sC7E)
 
 Incidentally, so that we can automate some tests of your code, we ask that
 your program's last line of output be only the minimum number of coins
@@ -887,9 +887,8 @@ within CS50 IDE, you may execute the below.
 Like to tackle this problem but not sure how to begin? Here's Zamyla with a
 walkthrough.
 
-![Credit](https://img.youtube.com/vi/06wNhN54P6k/0.jpg)
+[![Credit](https://img.youtube.com/vi/06wNhN54P6k/0.jpg)](https://www.youtube.com/watch?v=06wNhN54P6k)
 
 ## How to Submit
 
 _Coming Wed 9/7. Reload this page then!_
-
