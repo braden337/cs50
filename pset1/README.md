@@ -1,5 +1,13 @@
 # Problem Set 1: C
 
+- [Smart Water](#smart-water)
+- [Itsa Mario](#itsa-mario)
+  - [Less Comfortable](#less-comfortable)
+  - [More Comfortable](#more-comfortable)
+- [Fun With Algorithms](#fun-with-algorithms)
+  - [Greedy](#less-comfortable-1)
+  - [Credit](#more-comfortable-1)
+
 If you haven't already, do review the course's policy on academic honesty in
 the syllabus on the course's website.
 
@@ -190,6 +198,8 @@ terminal window that you'll soon be compiling your first program!
 
 First, a hello from Zamyla if you'd like a tour of what's to come,
 particularly if less comfortable.
+
+![Hello](https://img.youtube.com/vi/vbkTzOytISY/0.jpg)
 
 Shall we have you write your first program? Inside of your **pset1** folder,
 create a new file called **hello.c**, and then open that file in a tab.
@@ -460,6 +470,8 @@ execute the below.
 
 If unsure how to begin, here's Zamyla.
 
+![Water](https://img.youtube.com/vi/oAcVHgmjTHE/0.jpg)
+
 And if you'd like to play with the staff's own implementation of `water`
 within CS50 IDE, you may execute the below.
 
@@ -560,11 +572,11 @@ within CS50 IDE, you may execute the below.
 
 Not sure where to begin? Not to worry, here's Zamyla:
 
+![Mario](https://img.youtube.com/vi/EGWRG5e1O2s/0.jpg)
+
 ### More Comfortable
 
 * * *
-
-published: false \---
 
 Toward the beginning of World 1-1 in Nintendo's Super Mario Brothers, Mario
 must hop over two "half-pyramids" of blocks as he heads toward a flag pole.
@@ -603,6 +615,8 @@ CS50 IDE, you may execute the below.
 
 Like to implement these two half-pyramids but not sure how to approach them?
 Here's Zamyla with a walkthrough.
+
+![Mario](https://img.youtube.com/vi/xX7DQGkEG48/0.jpg)
 
 ## Fun with Algorithms
 
@@ -688,6 +702,8 @@ nearest penny); don't "truncate" (i.e., floor) your cents!
 
 Not sure where to begin? Not to worry, start with a walkthrough:
 
+![Greedy](https://img.youtube.com/vi/2cArM62sC7E/0.jpg)
+
 Incidentally, so that we can automate some tests of your code, we ask that
 your program's last line of output be only the minimum number of coins
 possible: an integer followed by `\n`. Consider the below representative of
@@ -744,8 +760,6 @@ within CS50 IDE, you may execute the below.
 ### More Comfortable
 
 * * *
-
-published: false \---
 
 Odds are you have a credit card in your wallet. Though perhaps the bill does
 not (yet) get sent to you! That card has a number, both printed on its face
@@ -872,6 +886,8 @@ within CS50 IDE, you may execute the below.
 
 Like to tackle this problem but not sure how to begin? Here's Zamyla with a
 walkthrough.
+
+![Credit](https://img.youtube.com/vi/06wNhN54P6k/0.jpg)
 
 ## How to Submit
 
