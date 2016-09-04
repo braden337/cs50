@@ -11,7 +11,7 @@ int main(void) {
   
   while (card < 0) {
     printf("Card: ");
-    card = GetLongLong();
+    card = get_long_long();
   }
   
   while (card > 0) {

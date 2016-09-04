@@ -10,7 +10,7 @@ int main() {
   
   do {
     printf("Height: ");
-    height = GetInt();
+    height = get_int();
   } while (height > 23 || height < 0);
 
   for (int i = 1; i <= height; i++) {

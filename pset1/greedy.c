@@ -8,7 +8,7 @@ int main() {
   
   while (change < 0) {
     printf("Your change in dollars: ");
-    change = GetFloat();
+    change = get_float();
   }
   
   int balance = round(change*100);

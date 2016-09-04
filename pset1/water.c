@@ -4,6 +4,6 @@
 int main(void) {
   int showerMinutes;
   printf("minutes: ");
-  showerMinutes = GetInt();
+  showerMinutes = get_int();
   printf("bottles: %d\n", showerMinutes * 192 / 16);
 }
