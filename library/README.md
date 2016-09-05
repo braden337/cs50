@@ -1,4 +1,4 @@
-``` Shell
+```bash
 $ gcc -c -ggdb -std=c99 cs50.c -o cs50.o
 $ ar rcs libcs50.a cs50.o
 $ rm cs50.o
