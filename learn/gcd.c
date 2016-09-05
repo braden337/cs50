@@ -3,8 +3,8 @@
 
 int gcd(int a, int b);
 
-int main(void) {
-
+int main(void)
+{
   int a, b;
 
   printf("A: ");
@@ -15,10 +15,10 @@ int main(void) {
 
   // printf("\n%-10c %-10c\n", 'A', 'B');
   printf("\nGCD is %i\n", gcd(a,b));
-
 }
 
-int gcd(int a, int b) {
+int gcd(int a, int b)
+{
   // printf("%-10i %-10i\n", a, b);
   if (b == 0)
     return a;
