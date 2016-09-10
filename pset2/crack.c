@@ -4,7 +4,7 @@
 #include <cs50.h>
 #include <string.h>
 
-char hash[128];
+string hash;
 char salt[3];
 
 int hashMatches(string word);
@@ -15,7 +15,7 @@ int main(int argc, string argv[])
     return 1;
 
   char word[5];
-  strcpy(hash, argv[1]);
+  hash = argv[1];
   salt[0] = hash[0];
   salt[1] = hash[1];
 
