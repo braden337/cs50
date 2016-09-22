@@ -7,6 +7,7 @@
 #include <cs50.h>
 
 #include "helpers.h"
+#include <stdio.h>
 
 /**
  * Returns true if value is in array of n values, else false.
@@ -41,6 +42,11 @@ void sort(int values[], int n)
             values[i] = tmp;
         }
         sorts++;
+    }
+    
+    for (int i = 0; i < n; i++)
+    {
+        printf("%5i, ", values[i]);
     }
     
     return;
