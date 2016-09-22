@@ -30,12 +30,13 @@ void sort(int values[], int n)
 {
     // TODO: implement an O(n^2) sorting algorithm
     int sorts = 1;
+    int tmp = 0;
     
     for (int i = 0; i < n-sorts; i++)
     {
         if (values[i] > values[i+1])
         {
-            int tmp = values[i+1];
+            tmp = values[i+1];
             values[i+1] = values[i];
             values[i] = tmp;
         }
