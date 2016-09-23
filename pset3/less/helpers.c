@@ -29,24 +29,37 @@ bool search(int value, int values[], int n)
  */
 void sort(int values[], int n)
 {
-    // TODO: implement an O(n^2) sorting algorithm
-    int sorts = 1;
-    int tmp = 0;
-    
-    for (int i = 0; i < n-sorts; i++)
+    int length = n;
+    for (int i = 0; i < length; i++)
     {
+      printf("%i ", values[i]);
+    }
+    // TODO: implement an O(n^2) sorting algorithm
+    int swapped;
+    int temp;
+    
+    while (1)
+    {
+      swapped = 0;
+      
+      for (int i = 0; i < (n-1); i++)
+      {
         if (values[i] > values[i+1])
         {
-            tmp = values[i+1];
-            values[i+1] = values[i];
-            values[i] = tmp;
+          temp = values[i];
+          values[i] = values[i + 1];
+          values[i + 1] = temp;
+          swapped = 1;
         }
-        sorts++;
+      }
+      
+      if (swapped == 0) break;
+      n -= 1;
     }
-    
-    for (int i = 0; i < n; i++)
+    printf("\n");
+    for (int i = 0; i < length; i++)
     {
-        printf("%5i, ", values[i]);
+      printf("%i ", values[i]);
     }
     
     return;
